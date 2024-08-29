@@ -21,8 +21,8 @@ STEP 5: Remove outliers using IQR
 STEP 6: Use zscore of to remove outliers
 
 # Coding and Output
-# Developed by:Anubharathi SS
-# Reg no:212223040017
+### Developed by: Anubharathi SS
+### Reg no: 212223040017
 # Data Cleaning:
 ```
 import pandas as pd
